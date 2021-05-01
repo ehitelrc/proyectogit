@@ -1,7 +1,10 @@
 h1{
     color: Green;
+    font-size: 20px;
+    font-weight: lighter;
 }
 
 body{
     text-align: justify;
 }
+
